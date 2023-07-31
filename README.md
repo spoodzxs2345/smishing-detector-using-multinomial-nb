@@ -1,4 +1,8 @@
 # Smishing Detection Model Using MultinomialNB
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+
 > *Note: I did not include the model/pickle in the `.gitignore` so that the Streamlit demo will work.*
 
 This model is for detection of smishing messages. You can use the [demo](https://smishing-detector-using-multinomial-nb-demo.streamlit.app/) to have some glimpse on how the model works.
